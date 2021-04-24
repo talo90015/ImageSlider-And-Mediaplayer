@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ImageSlider</string>
+    <string name="audio_picker">Audio Picker</string>
+    <string name="music_time">0:00</string>
+    <string name="_0_00_end">0:00</string>
+</resources>
