@@ -1,0 +1,2 @@
+# ImageSlider-And-Mediaplayer
+幻燈片自動切換和從本機選擇檔案MediaPlayer音樂播放APP
